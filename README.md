@@ -5,7 +5,11 @@ This is a chat application written in Node.js, with socket.io and expressjs. It 
 
 To install and run locally ...
 
-$ git clone https://github.com/skylerto/chat-cat.git
+$ git clone https://github.com/KineticFanatic/FanaticChat.git
+
 $ cd chat-cat/
+
 $ npm install
+
 $ node app.js
+
