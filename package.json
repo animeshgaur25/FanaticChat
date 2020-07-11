@@ -1,0 +1,22 @@
+{
+  "name": "chatroom",
+  "version": "1.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "KineticFanatic",
+  "license": "ISC",
+  "dependencies": {
+    "connect-mongo": "^2.0.3",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.4",
+    "express-session": "file:express-session",
+    "hogan-express": "^0.5.2",
+    "mongoose": "^5.4.0",
+    "passport": "^0.4.0",
+    "passport-facebook": "^2.1.1",
+    "socket.io": "^2.2.0"
+  }
+}
